@@ -1,5 +1,5 @@
 import React from "react";
-import List from "../assets/data/list.json";
+import List from "../assets/Data/list.json";
 import Cards from "./Cards";
 
 import { Swiper, SwiperSlide } from "swiper/react";

@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Cards from "./Cards";
-import List from "../assets/data/list.json";
+import List from "../assets/Data/list.json";
 
 function Courses() {
   const categories = [

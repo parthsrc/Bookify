@@ -2,7 +2,7 @@ import { useSearchParams } from "react-router-dom";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
 import Cards from "./Cards";
-import List from "../assets/data/list.json";
+import List from "../assets/Data/list.json";
 
 function Search() {
 
